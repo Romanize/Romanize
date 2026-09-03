@@ -35,7 +35,6 @@ jobs:
           username: ${{ github.repository_owner }}
           file: profile/trophy.svg
           theme: matrix
-          theme: matrix
           token: ${{ secrets.GH_TOKEN }}
 
       - name: Commit cards
