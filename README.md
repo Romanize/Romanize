@@ -1,12 +1,11 @@
 # Hi, I'm Robert Martinez 👋
 
-Full-stack engineer from Asunción, Paraguay. Working at **Toptal @ Databricks**, building with TypeScript, Python, and modern web frameworks.
+Full-stack engineer currently based in Asunción, Paraguay. Working at **Toptal @ Databricks**, building with TypeScript, Python, and modern web frameworks.
 
 ## About Me
 
 [![](https://visitor-badge.laobi.icu/badge?page_id=Romanize.Romanize)](https://visitor-badge.laobi.icu/badge?page_id=Romanize.Romanize)
 [![Mail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:robert.g.martinez.a@gmail.com)
-[![](https://img.shields.io/github/stars/Romanize?color=fefb7b&logo=github)](https://github.com/Romanize?tab=repositories)
 [![](https://img.shields.io/github/followers/Romanize?color=27da6b&logo=github)](https://github.com/Romanize?tab=followers)
 
 ## Tools
@@ -28,12 +27,8 @@ Full-stack engineer from Asunción, Paraguay. Working at **Toptal @ Databricks**
 <a href="https://astro.build/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/astro/astro-original.svg" alt="astro" width="40" height="40"/></a>
 <a href="https://nodejs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/></a>
 <a href="https://threejs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" alt="threejs" width="40" height="40"/></a>
-<a href="https://sass-lang.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/></a>
-<a href="https://tailwindcss.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="40" height="40"/></a>
 <a href="https://www.postgresql.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/></a>
 <a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/></a>
-<a href="https://www.mongodb.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/></a>
-<a href="https://strapi.io/" target="_blank"><img src="https://cdn.simpleicons.org/strapi/4945FF" alt="strapi" width="40" height="40"/></a>
 <a href="https://www.docker.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/></a>
 <a href="https://git-scm.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/></a>
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/></a>
