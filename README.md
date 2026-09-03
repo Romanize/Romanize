@@ -42,6 +42,3 @@ Full-stack engineer currently based in Asunción, Paraguay. Working at **Toptal 
 ![](./profile/top-langs.svg)
 
 ![](./profile/trophy.svg)
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
