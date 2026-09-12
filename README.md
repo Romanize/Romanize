@@ -1,6 +1,6 @@
 # Hi, I'm Robert Martinez 👋
 
-Full-stack engineer currently based in Asunción, Paraguay. Working at **Toptal @ Databricks**, building with TypeScript, Python, and modern web frameworks.
+Full-stack engineer currently based in Asunción, Paraguay. Working at **Toptal @ Databricks**, creating new AI driven data intelligence platform.
 
 ## About Me
 
